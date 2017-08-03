@@ -1,2 +1,2 @@
-# Facebook-Md5-Encryption
-For batch encrypt customer profile to encryption format before submit to facebook as custom audience
+# Facebook-Sha256-Encryption
+For batch encrypt customer profile with SHA 256 to encryption format before submit to facebook as custom audience
