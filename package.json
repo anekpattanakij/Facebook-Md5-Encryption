@@ -1,0 +1,33 @@
+{
+  "name": "facebookmd5encryption",
+  "version": "1.0.0",
+  "description": "For batch encrypt customer profile to encryption format before submit to facebook as custom audience",
+  "main": "index.js",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anekpattanakij/Facebook-Md5-Encryption.git"
+  },
+  "keywords": [
+    "Facebook",
+    "MD5",
+    "PII",
+    "encryption",
+    "node.js"
+  ],
+  "author": "Anupol Anekpattanakij",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anekpattanakij/Facebook-Md5-Encryption/issues"
+  },
+  "homepage": "https://github.com/anekpattanakij/Facebook-Md5-Encryption#readme"
+}
