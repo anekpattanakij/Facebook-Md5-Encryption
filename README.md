@@ -18,3 +18,5 @@ i.e. npm start inputContactList.csv encryptedContactList.csv Y
 4. run "npm start" with arguments that you want.
 
 # Good Luck!!
+Note : For phone number before encrypt, it should be inital with country code without any symbol.
+
